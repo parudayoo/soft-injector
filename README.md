@@ -1,6 +1,7 @@
 # soft-injector ver 0.1.0
 Load it using cmd.
 This tool sets up DLLs, configures processes, and injects DLLs into processes.
+*Please run with administrator privileges.*
 # Functions
 Dll
 process
