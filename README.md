@@ -21,3 +21,5 @@ Check version --now softver
 end
 # support
 join discord
+# absolute thinking
+Please run with administrator privileges.
